@@ -1,0 +1,12 @@
+Smirnov
+A
+45
+UTS
+50000
+Teacher
+Vinogradov
+D
+67
+UTS
+75000
+Prefessor
